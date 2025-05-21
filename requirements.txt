@@ -1,2 +1,5 @@
 openai
 faiss-cpu
+TfidfVectorizer
+stopwords
+nltk
